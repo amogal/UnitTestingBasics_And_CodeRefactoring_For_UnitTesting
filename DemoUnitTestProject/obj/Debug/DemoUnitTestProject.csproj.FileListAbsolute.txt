@@ -1,0 +1,10 @@
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\DemoUnitTestProject.dll.config
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\DemoUnitTestProject.dll
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\DemoUnitTestProject.pdb
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\DemoClassLibarary.dll
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\DemoClassLibarary.pdb
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.csprojResolveAssemblyReference.cache
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.dll
+C:\Anwar\MyProjects\TDDConcepts\DemoUnitTestProject\obj\Debug\DemoUnitTestProject.pdb

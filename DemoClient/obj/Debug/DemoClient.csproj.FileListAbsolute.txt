@@ -1,0 +1,8 @@
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\bin\Debug\DemoClient.exe.config
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\bin\Debug\DemoClient.exe
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\bin\Debug\DemoClient.pdb
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\bin\Debug\DemoClassLibarary.dll
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\bin\Debug\DemoClassLibarary.pdb
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\obj\Debug\DemoClient.csprojResolveAssemblyReference.cache
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\obj\Debug\DemoClient.exe
+C:\Anwar\MyProjects\TDDConcepts\DemoClient\obj\Debug\DemoClient.pdb
